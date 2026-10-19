@@ -3,27 +3,6 @@
 A simple, clean web app that calculates your **cumulative Grade Point Average (GPA)** from your courses, grades, and credit hours. Built with Python and Streamlit.
 
 
-
-![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
-
-
-
-
-![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-
-
-
-
-![License](https://img.shields.io/badge/License-MIT-green)
-
-
-
-
-
-![GPA Calculator banner](assets/gpa-banner.svg)
-
-
-
 ---
 
 ## Features
@@ -34,15 +13,7 @@ A simple, clean web app that calculates your **cumulative Grade Point Average (G
 - **Input validation.** Empty course names and invalid credit values are rejected with a clear message.
 - **Simple to customize.** The grading scale is one dictionary in `app.py`.
 
-## Demo
-
-> Add a screenshot or GIF of the running app here. Save it in an `assets/` folder and link it like this:
->
-> `
-
-![Demo](assets/demo.png)
-
-`
+## Demo link
 
 ## How It Works
 
